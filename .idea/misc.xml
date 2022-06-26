@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/drawable/ic_base.xml" value="0.2545" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/drawable/ic_base__2_.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/drawable/ic_bg.xml" value="0.2545" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/drawable/ic_next.xml" value="0.2545" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/layout-v23/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/layout/act3.xml" value="0.2790328973444312" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/layout/activity_main.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/layout/activity_main2.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SimpleDesign/app/src/main/res/layout/kk.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
